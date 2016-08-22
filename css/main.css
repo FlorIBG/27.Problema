@@ -5,3 +5,22 @@
 .cuadrogris{
 	background-color: #F2F2F2;
 }
+.ml-0{
+	margin-left: 0%;
+}
+.blanco{
+	color: white;
+}
+.negro{
+background-color: black;
+padding: 1% 2%;
+margin-right: 3%;
+}
+@media screen and (max-width : 768px) {
+   .bajarxs{
+   	clear: left;
+   }
+   .mover1{
+   	margin-left: 15%;
+   }
+}
