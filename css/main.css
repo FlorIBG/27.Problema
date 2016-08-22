@@ -2,11 +2,20 @@
 *{
 	color: gray;
 }
+hr{
+	width: 100%;
+}
+.ml-10{
+	margin-left: 15%;
+}
 .cuadrogris{
 	background-color: #F2F2F2;
 }
-.ml-0{
-	margin-left: 0%;
+footer{
+	height: 150%;
+}
+mark{
+	background-color: gray;
 }
 .blanco{
 	color: white;
@@ -15,12 +24,4 @@
 background-color: black;
 padding: 1% 2%;
 margin-right: 3%;
-}
-@media screen and (max-width : 768px) {
-   .bajarxs{
-   	clear: left;
-   }
-   .mover1{
-   	margin-left: 15%;
-   }
 }
